@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35424" started-at="2018-02-24T11:31:45Z" finished-at="2018-02-24T11:32:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35424" started-at="2018-02-24T11:31:45Z" finished-at="2018-02-24T11:32:20Z">
+      <class name="com.qspiders.KeyDriver">
+        <test-method status="PASS" signature="setPath()[pri:0, instance:com.qspiders.KeyDriver@457e2f02]" name="setPath" is-config="true" duration-ms="31" started-at="2018-02-24T17:01:45Z" finished-at="2018-02-24T17:01:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPath -->
+        <test-method status="PASS" signature="initKeyDriver()[pri:0, instance:com.qspiders.KeyDriver@457e2f02]" name="initKeyDriver" is-config="true" duration-ms="125" started-at="2018-02-24T17:01:45Z" finished-at="2018-02-24T17:01:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initKeyDriver -->
+        <test-method status="PASS" signature="controllerExecutor()[pri:0, instance:com.qspiders.KeyDriver@457e2f02]" name="controllerExecutor" duration-ms="35299" started-at="2018-02-24T17:01:45Z" finished-at="2018-02-24T17:02:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- controllerExecutor -->
+      </class> <!-- com.qspiders.KeyDriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,24 @@
+2018-02-24 18:30:07,440 - com.qspiders.KeyDriver - INFO - **********************Starting Frame Work**********************
+2018-02-24 18:30:13,803 - com.qspiders.KeyDriver - INFO - Total Number of Scenarios:2
+2018-02-24 18:30:13,944 - com.qspiders.KeyDriver - INFO - ======================================================
+2018-02-24 18:30:13,945 - com.qspiders.KeyDriver - INFO - Starting scenario:Scenario1
+2018-02-24 18:30:14,000 - com.qspiders.KeyDriver - INFO - StepCount:5
+2018-02-24 18:30:14,255 - com.qspiders.KeyDriver - INFO - enter username
+2018-02-24 18:30:14,310 - com.qspiders.FWLibrary - INFO - Element found with xpath://input[@id='input-username']
+2018-02-24 18:30:14,472 - com.qspiders.FWLibrary - INFO - Entering "admin"
+2018-02-24 18:30:14,654 - com.qspiders.KeyDriver - INFO - enter password
+2018-02-24 18:30:14,696 - com.qspiders.FWLibrary - INFO - Element found with xpath://input[@id='input-password']
+2018-02-24 18:30:14,844 - com.qspiders.FWLibrary - INFO - Entering "admin123"
+2018-02-24 18:30:14,979 - com.qspiders.KeyDriver - INFO - click login
+2018-02-24 18:30:15,028 - com.qspiders.FWLibrary - INFO - Element found with xpath://button[@type='submit']
+2018-02-24 18:30:15,815 - com.qspiders.KeyDriver - INFO - click admin
+2018-02-24 18:30:15,872 - com.qspiders.FWLibrary - INFO - Element found with xpath://a[.='admin']
+2018-02-24 18:30:16,078 - com.qspiders.KeyDriver - INFO - click logout
+2018-02-24 18:30:16,128 - com.qspiders.FWLibrary - INFO - Element found with xpath://a[contains(.,'Logout')]
+2018-02-24 18:30:16,521 - com.qspiders.KeyDriver - INFO - Ending scenario:Scenario1
+2018-02-24 18:30:16,521 - com.qspiders.KeyDriver - INFO - !!!! Execution Status of above scenario:PASS !!!!
+2018-02-24 18:30:16,522 - com.qspiders.KeyDriver - INFO - ======================================================
+2018-02-24 18:30:16,628 - com.qspiders.KeyDriver - INFO - _________________________________________________________
+2018-02-24 18:30:16,628 - com.qspiders.KeyDriver - WARN - Skipping scenario:Scenario2
+2018-02-24 18:30:17,389 - com.qspiders.KeyDriver - INFO - Total Pass:1 ; Total Fail:0 ; Total Skip:1
+2018-02-24 18:30:17,389 - com.qspiders.KeyDriver - INFO - **********************Ending Frame Work**********************

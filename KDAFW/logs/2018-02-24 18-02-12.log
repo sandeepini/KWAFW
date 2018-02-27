@@ -1,0 +1,14 @@
+2018-02-24 18:02:12,515 - com.qspiders.KeyDriver - INFO - **********************Starting Frame Work**********************
+2018-02-24 18:02:18,621 - com.qspiders.KeyDriver - INFO - Total Number of Scenarios:2
+2018-02-24 18:02:18,786 - com.qspiders.KeyDriver - INFO - ======================================================
+2018-02-24 18:02:18,786 - com.qspiders.KeyDriver - INFO - Starting scenario:Scenario1
+2018-02-24 18:02:18,847 - com.qspiders.KeyDriver - INFO - StepCount:5
+2018-02-24 18:02:19,080 - com.qspiders.KeyDriver - INFO - enter username
+2018-02-24 18:02:39,179 - com.qspiders.FWLibrary - ERROR - FAIL:sendKeys();Element Not Found with the xpath://input[@id='username']
+2018-02-24 18:02:39,304 - com.qspiders.KeyDriver - INFO - enter password
+2018-02-24 18:02:39,339 - com.qspiders.FWLibrary - INFO - Element found with xpath://input[@name='password']
+2018-02-24 18:02:39,489 - com.qspiders.FWLibrary - INFO - Entering "admin123"
+2018-02-24 18:02:39,666 - com.qspiders.KeyDriver - INFO - click login
+2018-02-24 18:02:39,691 - com.qspiders.FWLibrary - INFO - Element found with xpath://button[@type='submit']
+2018-02-24 18:02:40,156 - com.qspiders.KeyDriver - INFO - click admin
+2018-02-24 18:02:45,564 - com.qspiders.FWLibrary - INFO - Element found with xpath://a[.='admin']

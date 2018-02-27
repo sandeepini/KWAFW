@@ -1,0 +1,20 @@
+2018-02-24 17:55:58,408 - com.qspiders.KeyDriver - INFO - **********************Starting Frame Work**********************
+2018-02-24 17:56:03,774 - com.qspiders.KeyDriver - INFO - Total Number of Scenarios:2
+2018-02-24 17:56:03,955 - com.qspiders.KeyDriver - INFO - ======================================================
+2018-02-24 17:56:03,955 - com.qspiders.KeyDriver - INFO - Starting scenario:Scenario1
+2018-02-24 17:56:04,023 - com.qspiders.KeyDriver - INFO - StepCount:4
+2018-02-24 17:56:04,249 - com.qspiders.KeyDriver - INFO - enter username
+2018-02-24 17:56:24,410 - com.qspiders.FWLibrary - ERROR - FAIL:sendKeys();Element Not Found with the xpath://input[@id='username']
+2018-02-24 17:56:24,548 - com.qspiders.KeyDriver - INFO - enter password
+2018-02-24 17:56:44,574 - com.qspiders.FWLibrary - ERROR - FAIL:sendKeys();Element Not Found with the xpath://input[@name='pwd']
+2018-02-24 17:56:44,696 - com.qspiders.KeyDriver - INFO - click login
+2018-02-24 17:57:04,747 - com.qspiders.FWLibrary - ERROR - FAIL:click(): Element Not Found with the xpath://a[@id='loginButton']
+2018-02-24 17:57:04,857 - com.qspiders.KeyDriver - INFO - click logout
+2018-02-24 17:57:24,923 - com.qspiders.FWLibrary - ERROR - FAIL:click(): Element Not Found with the xpath://a[@id='logoutLink']
+2018-02-24 17:57:24,923 - com.qspiders.KeyDriver - INFO - Ending scenario:Scenario1
+2018-02-24 17:57:24,923 - com.qspiders.KeyDriver - INFO - !!!! Execution Status of above scenario:FAIL !!!!
+2018-02-24 17:57:24,923 - com.qspiders.KeyDriver - INFO - ======================================================
+2018-02-24 17:57:24,986 - com.qspiders.KeyDriver - INFO - _________________________________________________________
+2018-02-24 17:57:24,986 - com.qspiders.KeyDriver - WARN - Skipping scenario:Scenario2
+2018-02-24 17:57:25,662 - com.qspiders.KeyDriver - INFO - Total Pass:0 ; Total Fail:1 ; Total Skip:1
+2018-02-24 17:57:25,662 - com.qspiders.KeyDriver - INFO - **********************Ending Frame Work**********************
